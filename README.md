@@ -1,4 +1,4 @@
-OverTheWire Bandit
+OverTheWire Bandit Levels 0 to 20
 A documentation of my progress through the OverTheWire Bandit wargame as part of my DevOps learning journey.
 Each level is documented in its own file with the goal, the commands I used and what I took away from it. This is not a solutions guide. It is a record of how I think through problems and build my Linux fundamentals from the ground up.
 Why I am doing this
